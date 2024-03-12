@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<navigation-bar title="小黄鸭买菜" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<scroll-view class="scrollarea" scroll-y type="list">
+    <view class="container">
+        小黄鸭买菜
+    </view>
+</scroll-view>
